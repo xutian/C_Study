@@ -1,4 +1,7 @@
 C_study
 =======
 
-small project to study C program
+Small project for me to study C program
+
+Project 1: eject v0.1 for windows
+
